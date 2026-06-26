@@ -1,0 +1,13 @@
+# Core dependencies for the RAG chatbot project
+streamlit>=1.37.0
+python-dotenv>=1.0.1
+langchain-core>=0.3.0
+langchain-groq>=0.1.0
+sentence-transformers>=3.0.0
+faiss-cpu>=1.8.0
+numpy>=1.26.0
+pandas>=2.2.0
+pypdf>=4.0.0
+
+# Testing
+pytest>=8.0.0
