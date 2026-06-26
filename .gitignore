@@ -1,0 +1,33 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Model / data artifacts
+*.pkl
+*.joblib
+*.npy
+*.index
+
+# Logs
+*.log
+
+
+data/multi_answers.csv
+data/single_qna.csv
